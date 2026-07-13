@@ -41,7 +41,6 @@ PRODUCTS = [
     },
 ]
     # Adiciona aqui quantos produtos quiseres, seguindo o mesmo formato.
-]
 
 # O webhook vem de uma variável de ambiente (definida como secret no GitHub).
 # Para testares localmente, podes definir a variável no terminal antes de correr:
