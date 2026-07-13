@@ -30,15 +30,16 @@ import logging
 # - "size_filter": tamanho específico a monitorizar (ex: "M"), ou None para todos
 PRODUCTS = [
     {
-        "name": "Camisola Exemplo",
-        "url": "https://www.zara.com/pt/pt/nome-do-produto-1-p00000001.html",
+        "name": "CALÇÕES COMBINADOS COM RENDA BORDADOS",
+        "url": "https://www.zara.com/pt/pt/calcoes-combinados-com-renda-bordada-p05416103.html",
         "size_filter": None,
     },
     {
-        "name": "Calças Exemplo",
-        "url": "https://www.zara.com/pt/pt/nome-do-produto-2-p00000002.html",
-        "size_filter": "M",
+        "name": "VESTIDO COMPRIDO FRANJAS ZW COLLECTION",
+        "url": "https://www.zara.com/pt/pt/vestido-comprido-de-franjas-zw-collection-p03210102.html",
+        "size_filter": None,
     },
+]
     # Adiciona aqui quantos produtos quiseres, seguindo o mesmo formato.
 ]
 
