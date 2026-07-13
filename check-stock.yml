@@ -4,7 +4,7 @@ on:
   schedule:
     # Corre a cada 15 minutos. Sintaxe cron: minuto hora dia mês dia-da-semana
     # Nota: o GitHub Actions não garante o minuto exato, pode atrasar um pouco.
-    - cron: "*/15 * * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}  # permite correr manualmente pelo separador "Actions" no GitHub
 
 jobs:
