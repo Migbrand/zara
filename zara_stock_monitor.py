@@ -31,12 +31,12 @@ import logging
 PRODUCTS = [
     {
         "name": "CALÇÕES COMBINADOS COM RENDA BORDADOS",
-        "url": "https://www.zara.com/pt/pt/calcoes-combinados-com-renda-bordada-p05416103.html",
+        "url": "https://www.zara.com/pt/pt/calcoes-combinados-com-renda-bordada-p05416103.html?v1=504022025",
         "size_filter": None,
     },
     {
         "name": "VESTIDO COMPRIDO FRANJAS ZW COLLECTION",
-        "url": "https://www.zara.com/pt/pt/vestido-comprido-de-franjas-zw-collection-p03210102.html",
+        "url": "https://www.zara.com/pt/pt/vestido-comprido-de-franjas-zw-collection-p03210102.html?v1=508063007",
         "size_filter": None,
     },
 ]
